@@ -1,0 +1,14 @@
+ticker: IONQ
+name: IonQ
+date: '2026-10-28'
+score: 4.5
+ampel: gelb
+tendenz: rot
+sektor: Quantencomputing
+sektor_gruppe: Quantencomputing
+kurz: Kurs halbiert
+anfaenger: ungeeignet
+risiko: Spekulativ / Verluste
+termine:
+- datum: '2026-11-04'
+  text: Quartalszahlen

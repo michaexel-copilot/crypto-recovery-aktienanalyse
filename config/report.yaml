@@ -1,0 +1,91 @@
+# Konfiguration der Zusammenfassung. Alle Texte sind frei änderbar.
+# {n} im Titel wird durch die Anzahl der Aktien ersetzt.
+title: "Zusammenfassung – Alle {n} Aktien"
+footer: "Aktienanalysen – Zusammenfassung · Keine Anlageberatung · KI-erstellt, Zahlen selbst prüfen"
+disclaimer: "Keine Anlageberatung. Score und Ampel sind nur Analyse-Indikatoren, kein Kaufsignal."
+transparenz: >-
+  Alle Analysen wurden mit Claude (Anthropic) erstellt. Anthropic ist mit mehreren analysierten Firmen
+  verbunden (u. a. Amazon und Alphabet als Investoren, NVIDIA als Chip-Lieferant, SpaceX/xAI als
+  Wettbewerber); das ist in den betroffenen Analysen vermerkt.
+
+# Snapshots, die neuer als stand - update_window_days sind, gelten als "in diesem Update".
+update_window_days: 3
+# Analysen älter als max_age_days werden als "veraltet" markiert.
+max_age_days: 2
+# Aktien mit Terminen nach ihrer letzten Analyse und bis stand + refresh_hint_days
+# bekommen einen Auffrischungs-Hinweis ("nach den Zahlen per Update auffrischen").
+refresh_hint_days: 1
+
+wochen_ereignisse:
+  - "Chip-Ausverkauf am 22.10. (Halbleiterindex −6,7 % nach Lam-Research-Warnung)"
+  - "Lula gewinnt in Brasilien (Bovespa > −15 % am 26.10.)"
+  - "Enphase −20 % am 28.10. zieht den Haussolar-Sektor nach unten"
+  - "Meta und Alphabet finanzieren KI-Investitionen erstmals über neue Aktien"
+
+notizen:
+  - "Mag 7 und Q3: Eingearbeitet sind MSFT (28.10.), META (21.10.), TSLA (21.10.) und GOOGL (28.10.). Noch nicht enthalten: AMZN (29.10. abends), AAPL (02.11.), NVDA (17.11.)."
+
+observations:
+  - "Ende Oktober gab es einen Chip-Ausverkauf (Halbleiterindex –6,7 % am 22.10. nach einer Lieferengpass-Warnung von Lam Research). Halbleiter und KI-Werte sind entsprechend schwankungsanfällig."
+# Für diese Sektor-Gruppen wird automatisch beobachtet, ob alle Werte dieselbe Ampel-Familie haben.
+beobachte_sektoren: ["Rüstung", "Solar (Wohnhaus)"]
+
+# Quervergleiche: alle Aktien mit dem Tag (Feld "tags" im Snapshot) werden aufgelistet.
+# Spalten: ticker, name, score, ampel, stand, kurs, bewertung, land, sektor, kurz, quartal, kommentar
+comparisons:
+  - title: Mag 7 im Vergleich
+    tag: mag7
+    columns: [ticker, score, kurs, quartal, kommentar]
+    text: "Muster: Wer KI-Investitionen über den laufenden Cashflow bezahlt (MSFT), wird belohnt. Wer dafür neue Aktien ausgibt (META, GOOGL), wird abgestraft."
+  - title: Medizintechnik
+    tag: medtech
+    table: false
+    text: "Stryker liefert, Boston Scientific kämpft mit Konkurrenz und Cyberangriff. Alcon: solides Wachstum ~7 %, aber Pipeline-Rückschlag (PowerVision)."
+  - title: Baustoffe
+    tag: baustoffe
+    table: false
+    text: "Die ehemalige Mutter Holcim läuft besser als die abgespaltene Nordamerika-Tochter Amrize. Amrize ist günstiger (EV/EBITDA ~8), leidet aber unter Ölpreis-Kosten, Zinsen und Wetter."
+  - title: Solar
+    tag: solar
+    table: false
+    text: "Nach der Enphase-Warnung vom 28.10. ist der Haussolar-Markt besonders schwach."
+  - title: China-Autos
+    tag: china-auto
+    table: false
+    text: "BYD bleibt der robusteste Wert."
+  - title: Öl
+    tag: oel
+    table: false
+    text: "Petrobras ist viel billiger, aber nach dem Lula-Sieg politisch riskanter."
+  - title: Rüstung — Quervergleich
+    tag: ruestung
+    columns: [ticker, land, score, kurs, bewertung, kommentar]
+  - title: Halbleiter — Quervergleich
+    tag: halbleiter
+    columns: [ticker, score, kurs, bewertung, kommentar]
+  - title: Pharma — Quervergleich
+    tag: pharma
+    columns: [ticker, land, score, stand, kommentar]
+  - title: China — Quervergleich
+    tag: china
+    columns: [ticker, name, score, stand, kommentar]
+
+# Anfänger-Orientierung "Mit Sparplan": Zuordnung Sektor-Gruppe -> Überschrift
+sparplan_gruppen:
+  "Big Tech / Chips": ["Big Tech / Software / Cloud / Security", "Halbleiter / Speicher / Server"]
+  "Pharma": ["Pharma / Biotech"]
+  "Versicherer / Finanzen": ["Finanzen / Versicherung / Holding"]
+  "Rüstung": ["Rüstung"]
+
+risiko_order: ["Hoch bewertet", "Zyklus / Rohstoff", "Bilanz- oder Rechtsrisiken", "Spekulativ / Verluste", "China-Risiko", "Turnaround offen"]
+etf_hinweis: "Für fast jede Gruppe gibt es einen passenden ETF."
+
+hinweise:
+  - "Die Scores sind Analyse-Indikatoren, keine Kaufsignale."
+  - "Grün bedeutet attraktiv, nicht „sofort kaufen“."
+  - "Rot bedeutet hohe Risiken, nicht zwingend „nie investieren“."
+  - "Für absolute Anfänger ist ein breit gestreuter Welt-ETF immer die beste Basis."
+  - "Scores ändern sich zwischen Analyse-Terminen. Es wird immer der Snapshot mit dem jüngsten Datum verwendet."
+  - "Analysen werden von KI erstellt. Einige Kurse sind nur Spannen oder älter (in der jeweiligen Analyse markiert). Vor jeder Entscheidung selbst prüfen."
+
+details_pfad: "data/aktien/[TICKER]/YYYY-MM-DD.yaml"

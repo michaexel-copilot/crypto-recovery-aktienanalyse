@@ -1,0 +1,14 @@
+ticker: FSLR
+name: First Solar
+date: '2026-10-29'
+score: 6.0
+ampel: gelb
+sektor: Solar (US)
+sektor_gruppe: Energie / Rohstoffe
+kurz: Q3 am 29.10. abends
+anfaenger: sparplan
+tags:
+- solar
+termine:
+- datum: '2026-10-29'
+  text: Zahlen nach US-Börsenschluss

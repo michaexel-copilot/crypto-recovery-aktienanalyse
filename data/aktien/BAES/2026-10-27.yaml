@@ -1,0 +1,16 @@
+ticker: BAES
+name: BAE Systems
+date: '2026-10-27'
+score: 6.5
+ampel: gelb
+sektor: Rüstung (UK)
+sektor_gruppe: Rüstung
+land: UK
+kurz: Backlog 84 Mrd. £
+kurs:
+  wert: 1925
+  waehrung: GBp
+kommentar: Backlog 84 Mrd. £
+anfaenger: sparplan
+tags:
+- ruestung

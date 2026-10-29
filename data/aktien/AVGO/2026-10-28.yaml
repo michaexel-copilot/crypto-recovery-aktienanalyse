@@ -1,0 +1,20 @@
+ticker: AVGO
+name: Broadcom
+date: '2026-10-28'
+score: 6.5
+ampel: gelb
+sektor: KI-Chips
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: KI-Umsatz +221 %
+kurs:
+  wert: 342.33
+  waehrung: USD
+  datum: '2026-10-27'
+bewertung: ~1,6 Bio. USD Börsenwert
+kommentar: KI +221 %
+anfaenger: sparplan
+tags:
+- halbleiter
+termine:
+- datum: '2026-12-03'
+  text: Zahlen (Anfang Dez.)

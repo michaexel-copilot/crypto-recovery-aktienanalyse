@@ -1,0 +1,23 @@
+ticker: TKMS
+name: TKMS
+date: '2026-10-28'
+score: 6.0
+ampel: gelb
+sektor: Rüstung / Marine
+sektor_gruppe: Rüstung
+land: DE
+kurz: KGV ~39
+kurs:
+  wert: 86.5
+  waehrung: EUR
+  datum: '2026-10-27'
+  hinweis: ca.
+bewertung: KGV ~39
+kommentar: Kanada-Deal erst Ende 2027
+anfaenger: ungeeignet
+risiko: Hoch bewertet
+tags:
+- ruestung
+termine:
+- datum: '2026-12-07'
+  text: Jahreszahlen

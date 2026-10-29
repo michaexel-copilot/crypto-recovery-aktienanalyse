@@ -1,0 +1,12 @@
+ticker: NLM
+name: FRoSTA
+date: '2026-10-29'
+score: 6.0
+ampel: gelb
+sektor: Lebensmittel (DE)
+sektor_gruppe: Konsumgüter / Lebensmittel / Gastro
+kurz: 108 EUR, keine News
+kurs:
+  wert: 108
+  waehrung: EUR
+anfaenger: sparplan

@@ -1,0 +1,21 @@
+ticker: NVDA
+name: Nvidia
+date: '2026-10-29'
+score: 7.0
+ampel: gelb
+sektor: KI-Chips
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: 215 USD; 3 Mrd. in Meta-Aktien; Zahlen 17.11.
+kurs:
+  wert: 215.38
+  waehrung: USD
+  datum: '2026-10-28'
+bewertung: KGV ~26–28
+kommentar: Kunden finanzieren Capex mit Fremdkapital
+anfaenger: sparplan
+tags:
+- mag7
+- halbleiter
+termine:
+- datum: '2026-11-17'
+  text: Quartalszahlen

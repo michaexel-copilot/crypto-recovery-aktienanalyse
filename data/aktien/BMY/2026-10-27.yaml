@@ -1,0 +1,16 @@
+ticker: BMY
+name: Bristol Myers Squibb
+date: '2026-10-27'
+score: 6.5
+ampel: gelb
+sektor: Pharma (US)
+sektor_gruppe: Pharma / Biotech
+land: USA
+kurz: KGV ~9, 4 % Div.
+kommentar: KGV ~9, ~4 % Div.
+anfaenger: sparplan
+tags:
+- pharma
+termine:
+- datum: '2026-10-29'
+  text: Quartalszahlen

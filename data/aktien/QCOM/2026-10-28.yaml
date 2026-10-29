@@ -1,0 +1,19 @@
+ticker: QCOM
+name: Qualcomm
+date: '2026-10-28'
+score: 5.5
+ampel: gelb
+sektor: Halbleiter / Mobile
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: Apple-Verlust, KGV ~15
+kurs:
+  wert: 175
+  waehrung: USD
+  hinweis: ca., Mitte Okt.
+bewertung: KGV ~15
+kommentar: Apple-Verlust
+tags:
+- halbleiter
+termine:
+- datum: '2026-11-06'
+  text: Zahlen (Anfang Nov.)

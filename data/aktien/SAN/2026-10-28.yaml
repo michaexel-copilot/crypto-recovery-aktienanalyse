@@ -1,0 +1,16 @@
+ticker: SAN
+name: Sanofi
+date: '2026-10-28'
+score: 6.5
+ampel: gelb
+sektor: Pharma (FR)
+sektor_gruppe: Pharma / Biotech
+land: FR
+kurz: Dupixent +38 %, Pipeline-Flops
+kommentar: Pipeline-Rückschläge, neue CEO
+anfaenger: sparplan
+tags:
+- pharma
+termine:
+- datum: '2026-10-30'
+  text: Quartalszahlen

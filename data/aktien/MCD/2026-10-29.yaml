@@ -1,0 +1,16 @@
+ticker: MCD
+name: McDonald's
+date: '2026-10-29'
+score: 5.0
+ampel: gelb
+tendenz: rot
+sektor: Gastronomie
+sektor_gruppe: Konsumgüter / Lebensmittel / Gastro
+kurz: 249 USD; Q3 am 04.11.
+kurs:
+  wert: 249
+  waehrung: USD
+anfaenger: sparplan
+termine:
+- datum: '2026-11-04'
+  text: Zahlen vorbörslich

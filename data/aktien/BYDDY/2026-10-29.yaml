@@ -1,0 +1,20 @@
+ticker: BYDDY
+name: BYD
+date: '2026-10-29'
+score: 5.5
+ampel: gelb
+sektor: EV (CN)
+sektor_gruppe: China (Tech/EV/Batterie)
+kurz: 70 HKD; Q3 am 29./30.10.
+kurs:
+  wert: 70
+  waehrung: HKD
+kommentar: Export +154 %, Q3 am 29./30.10.
+anfaenger: ungeeignet
+risiko: China-Risiko
+tags:
+- china-auto
+- china
+termine:
+- datum: '2026-10-30'
+  text: Q3 (29./30.10.)

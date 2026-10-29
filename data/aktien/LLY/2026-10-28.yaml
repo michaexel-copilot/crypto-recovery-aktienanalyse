@@ -1,0 +1,17 @@
+ticker: LLY
+name: Eli Lilly
+date: '2026-10-28'
+score: 6.0
+ampel: gelb
+sektor: Pharma / GLP-1
+sektor_gruppe: Pharma / Biotech
+land: USA
+kurz: +48 %, KGV ~35; Q3 am 29.10.
+kommentar: +48 %, KGV ~35
+anfaenger: ungeeignet
+risiko: Hoch bewertet
+tags:
+- pharma
+termine:
+- datum: '2026-10-29'
+  text: Quartalszahlen

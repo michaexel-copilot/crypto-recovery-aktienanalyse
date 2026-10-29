@@ -1,0 +1,15 @@
+ticker: SEDG
+name: SolarEdge
+date: '2026-10-29'
+score: 3.0
+ampel: rot
+sektor: Solar
+sektor_gruppe: Solar (Wohnhaus)
+kurz: −10 % am 28.10.; Q3 am 04.11.
+anfaenger: ungeeignet
+risiko: Turnaround offen
+tags:
+- solar
+termine:
+- datum: '2026-11-04'
+  text: Quartalszahlen

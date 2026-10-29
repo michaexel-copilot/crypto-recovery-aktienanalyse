@@ -1,0 +1,19 @@
+ticker: AMZN
+name: Amazon
+date: '2026-10-29'
+score: 6.0
+ampel: gelb
+sektor: Cloud / E-Commerce
+sektor_gruppe: Big Tech / Software / Cloud / Security
+kurz: 253 USD; Q3 am 29.10. abends
+kurs:
+  wert: 253
+  waehrung: USD
+  datum: '2026-10-27'
+kommentar: AWS langsamer als Azure/Google
+anfaenger: sparplan
+tags:
+- mag7
+termine:
+- datum: '2026-10-29'
+  text: Zahlen nach US-Börsenschluss

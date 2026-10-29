@@ -1,0 +1,19 @@
+ticker: RHM
+name: Rheinmetall
+date: '2026-10-28'
+score: 6.0
+ampel: gelb
+sektor: Rüstung (DE)
+sektor_gruppe: Rüstung
+land: DE
+kurz: ~51 % unter Hoch, Prognose gesenkt
+kurs:
+  wert: 1022
+  waehrung: EUR
+  hinweis: Spanne 1.010–1.034
+kommentar: F126 verloren, –51 % vom Hoch
+tags:
+- ruestung
+termine:
+- datum: '2026-11-05'
+  text: Quartalszahlen

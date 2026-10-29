@@ -1,0 +1,16 @@
+ticker: ALC
+name: Alcon
+date: '2026-10-29'
+score: 6.0
+ampel: gelb
+sektor: Medizintechnik (Augen)
+sektor_gruppe: Medizintechnik
+kurz: Kern-KGV ~20; PowerVision gestoppt; Q3 am 10.11.
+aufgenommen: '2026-10-29'
+bewertung: Kern-KGV ~20
+anfaenger: sparplan
+tags:
+- medtech
+termine:
+- datum: '2026-11-10'
+  text: Q3 (evtl. 11.11.)

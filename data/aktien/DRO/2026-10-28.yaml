@@ -1,0 +1,20 @@
+ticker: DRO
+name: DroneShield
+date: '2026-10-28'
+score: 4.5
+ampel: gelb
+tendenz: rot
+sektor: Drohnenabwehr (AU)
+sektor_gruppe: Rüstung
+land: AU
+kurz: –60 %, Verluste
+kurs:
+  wert: 1.5
+  waehrung: AUD
+  hinweis: ca.
+bewertung: KUV ~5
+kommentar: Verluste
+anfaenger: ungeeignet
+risiko: Spekulativ / Verluste
+tags:
+- ruestung

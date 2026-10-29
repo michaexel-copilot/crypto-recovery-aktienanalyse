@@ -1,0 +1,13 @@
+ticker: GPRO
+name: GoPro
+date: '2026-10-28'
+score: 3.0
+ampel: rot
+sektor: Fusions-Sondersituation
+sektor_gruppe: Sondersituation
+kurz: Kurs < 1,14 USD Barzahlung
+anfaenger: ungeeignet
+risiko: Bilanz- oder Rechtsrisiken
+termine:
+- datum: '2026-11-06'
+  text: Zahlen (Anfang Nov.)

@@ -1,0 +1,13 @@
+ticker: GT
+name: Goodyear
+date: '2026-10-29'
+score: 3.0
+ampel: rot
+sektor: Reifen
+sektor_gruppe: Auto / EV / Reifen
+kurz: Schulden ~5× Börsenwert
+anfaenger: ungeeignet
+risiko: Turnaround offen
+termine:
+- datum: '2026-11-04'
+  text: Zahlen nachbörslich

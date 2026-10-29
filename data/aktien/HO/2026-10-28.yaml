@@ -1,0 +1,18 @@
+ticker: HO
+name: Thales
+date: '2026-10-28'
+score: 6.5
+ampel: gelb
+sektor: Rüstung (FR)
+sektor_gruppe: Rüstung
+land: FR
+kurz: Aufträge +15 %
+kurs:
+  wert: 224.5
+  waehrung: EUR
+  datum: '2026-10-05'
+  hinweis: ca.
+kommentar: Aufträge +15 %
+anfaenger: sparplan
+tags:
+- ruestung

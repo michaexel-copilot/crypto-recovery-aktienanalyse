@@ -1,0 +1,21 @@
+ticker: SNDK
+name: Sandisk
+date: '2026-10-28'
+score: 5.0
+ampel: gelb
+sektor: Speicherchips
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: Zyklus-Hoch; Q1 am 29.10.
+kurs:
+  wert: 1304.84
+  waehrung: USD
+  datum: '2026-10-27'
+bewertung: KGV ~7 (Zyklus-Hoch)
+kommentar: Q1 am 29.10.
+anfaenger: ungeeignet
+risiko: Zyklus / Rohstoff
+tags:
+- halbleiter
+termine:
+- datum: '2026-10-29'
+  text: Quartalszahlen

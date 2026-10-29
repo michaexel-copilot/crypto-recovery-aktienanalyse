@@ -1,0 +1,19 @@
+ticker: SYK
+name: Stryker
+date: '2026-10-29'
+score: 7.0
+ampel: gelb
+tendenz: gruen
+sektor: Medizintechnik
+sektor_gruppe: Medizintechnik
+kurz: ~302 USD, Q3 am 29.10. abends
+kurs:
+  wert: 302
+  waehrung: USD
+  hinweis: ca.
+anfaenger: sparplan
+tags:
+- medtech
+termine:
+- datum: '2026-10-29'
+  text: Zahlen nach US-Börsenschluss

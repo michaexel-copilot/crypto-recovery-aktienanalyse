@@ -1,0 +1,18 @@
+ticker: GOOGL
+name: Alphabet
+date: '2026-10-27'
+score: 7.0
+ampel: gelb
+sektor: Big Tech / KI
+sektor_gruppe: Big Tech / Software / Cloud / Security
+kurz: Cloud +103 %, aber FCF negativ
+kurs:
+  wert: 294
+  waehrung: USD
+  datum: '2026-10-28'
+  hinweis: nachbörslich, ca.
+quartal: Cloud +103 %
+kommentar: FCF negativ, neue Aktien
+anfaenger: sparplan
+tags:
+- mag7

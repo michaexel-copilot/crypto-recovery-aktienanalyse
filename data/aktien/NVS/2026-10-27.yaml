@@ -1,0 +1,13 @@
+ticker: NVS
+name: Novartis
+date: '2026-10-27'
+score: 6.5
+ampel: gelb
+sektor: Pharma (CH)
+sektor_gruppe: Pharma / Biotech
+land: CH
+kurz: 2 Phase-3-Flops
+kommentar: 2 Phase-3-Flops
+anfaenger: sparplan
+tags:
+- pharma

@@ -1,0 +1,18 @@
+ticker: ABCL
+name: AbCellera
+date: '2026-10-29'
+score: 4.0
+ampel: gelb
+tendenz: rot
+sektor: Biotech-Plattform
+sektor_gruppe: Pharma / Biotech
+land: CA
+kurz: Q3 am 09.11.
+kommentar: Q3 am 09.11.
+anfaenger: ungeeignet
+risiko: Spekulativ / Verluste
+tags:
+- pharma
+termine:
+- datum: '2026-11-09'
+  text: Q3

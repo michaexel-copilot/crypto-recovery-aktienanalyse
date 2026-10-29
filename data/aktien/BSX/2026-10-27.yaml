@@ -1,0 +1,12 @@
+ticker: BSX
+name: Boston Scientific
+date: '2026-10-27'
+score: 6.0
+ampel: gelb
+sektor: Medizintechnik
+sektor_gruppe: Medizintechnik
+kurz: Q3 nur +1,5 %, Prognose < Konsens
+anfaenger: ungeeignet
+risiko: Turnaround offen
+tags:
+- medtech

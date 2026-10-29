@@ -1,0 +1,13 @@
+ticker: MUV2
+name: Munich Re
+date: '2026-10-28'
+score: 7.0
+ampel: gelb
+tendenz: gruen
+sektor: Rückversicherung
+sektor_gruppe: Finanzen / Versicherung / Holding
+kurz: Gewinnziel 6,6 Mrd. €, Kurs auf Ziel
+anfaenger: geeignet
+termine:
+- datum: '2026-11-12'
+  text: Quartalszahlen

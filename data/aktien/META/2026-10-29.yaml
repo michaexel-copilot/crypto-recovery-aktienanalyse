@@ -1,0 +1,21 @@
+ticker: META
+name: Meta
+date: '2026-10-29'
+score: 5.5
+ampel: gelb
+sektor: Big Tech / KI
+sektor_gruppe: Big Tech / Software / Cloud / Security
+kurz: FCF negativ, Kapitalerhöhung 25 Mrd.
+kurs:
+  wert: 612
+  waehrung: USD
+  datum: '2026-10-28'
+quartal: Umsatz +26 %
+kommentar: FCF negativ, Kapitalerhöhung
+aenderungsgrund: FCF negativ, Kapitalerhöhung
+anfaenger: sparplan
+tags:
+- mag7
+termine:
+- datum: '2027-01-28'
+  text: Zahlen (Ende Jan./Feb. 2027)

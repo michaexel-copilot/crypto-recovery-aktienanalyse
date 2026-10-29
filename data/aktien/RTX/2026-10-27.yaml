@@ -1,0 +1,18 @@
+ticker: RTX
+name: RTX
+date: '2026-10-27'
+score: 7.0
+ampel: gelb
+tendenz: gruen
+sektor: Rüstung / Luftfahrt
+sektor_gruppe: Rüstung
+land: USA
+kurz: Prognose 2× angehoben, Backlog 340 Mrd.
+kurs:
+  wert: 196.5
+  waehrung: USD
+  hinweis: ca.
+kommentar: Prognose 2× angehoben
+anfaenger: geeignet
+tags:
+- ruestung

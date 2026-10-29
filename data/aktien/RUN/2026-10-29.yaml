@@ -1,0 +1,15 @@
+ticker: RUN
+name: Sunrun
+date: '2026-10-29'
+score: 3.0
+ampel: rot
+sektor: Solar (US)
+sektor_gruppe: Solar (Wohnhaus)
+kurz: Haussolar schwach (Enphase −20 %)
+anfaenger: ungeeignet
+risiko: Turnaround offen
+tags:
+- solar
+termine:
+- datum: '2026-11-04'
+  text: Quartalszahlen

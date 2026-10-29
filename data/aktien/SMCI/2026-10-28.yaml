@@ -1,0 +1,22 @@
+ticker: SMCI
+name: Super Micro
+date: '2026-10-28'
+score: 4.5
+ampel: gelb
+tendenz: rot
+sektor: KI-Server
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: Prognose ↑, Exportkontroll-Fall
+kurs:
+  wert: 35
+  waehrung: USD
+  hinweis: Spanne 34–36
+bewertung: KGV ~7–8
+kommentar: Rechtsrisiken
+anfaenger: ungeeignet
+risiko: Bilanz- oder Rechtsrisiken
+tags:
+- halbleiter
+termine:
+- datum: '2026-11-03'
+  text: Zahlen (geschätzt)

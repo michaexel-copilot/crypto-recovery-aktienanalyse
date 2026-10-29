@@ -1,0 +1,14 @@
+ticker: CCJ
+name: Cameco
+date: '2026-10-28'
+score: 5.0
+ampel: gelb
+tendenz: rot
+sektor: Uran
+sektor_gruppe: Energie / Rohstoffe
+kurz: Fwd-KGV ~52; Q3 am 30.10.
+anfaenger: ungeeignet
+risiko: Hoch bewertet
+termine:
+- datum: '2026-10-30'
+  text: Quartalszahlen

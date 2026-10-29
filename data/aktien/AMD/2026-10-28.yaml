@@ -1,0 +1,22 @@
+ticker: AMD
+name: AMD
+date: '2026-10-28'
+score: 6.0
+ampel: gelb
+sektor: Halbleiter
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: Rechenzentrum +107 %, sehr teuer
+kurs:
+  wert: 517
+  waehrung: USD
+  datum: '2026-10-23'
+  hinweis: ca.
+bewertung: KGV ~75–90
+kommentar: Q3 am 03.11.
+anfaenger: ungeeignet
+risiko: Hoch bewertet
+tags:
+- halbleiter
+termine:
+- datum: '2026-11-03'
+  text: Quartalszahlen

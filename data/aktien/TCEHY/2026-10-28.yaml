@@ -1,0 +1,18 @@
+ticker: TCEHY
+name: Tencent
+date: '2026-10-28'
+score: 7.0
+ampel: gelb
+tendenz: gruen
+sektor: China Big Tech
+sektor_gruppe: China (Tech/EV/Batterie)
+kurz: KGV ~12 nach –34 %
+bewertung: KGV ~12
+kommentar: KGV ~12
+anfaenger: sparplan
+anfaenger_hinweis: max. 2–4 %
+tags:
+- china
+termine:
+- datum: '2026-11-18'
+  text: Q3

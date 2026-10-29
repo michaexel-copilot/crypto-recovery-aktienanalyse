@@ -1,0 +1,14 @@
+ticker: RNO
+name: Renault
+date: '2026-10-29'
+score: 5.0
+ampel: gelb
+tendenz: rot
+sektor: Auto (FR)
+sektor_gruppe: Auto / EV / Reifen
+kurz: Q3 +1,5 %, Prognose bestätigt
+anfaenger: ungeeignet
+risiko: Turnaround offen
+termine:
+- datum: '2027-01-28'
+  text: Zahlen (Ende Jan./Feb. 2027)

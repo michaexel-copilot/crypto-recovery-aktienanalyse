@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aktienreport"
+version = "0.1.0"
+description = "Erzeugt Zusammenfassungen von Aktienanalysen (Score, Ampel, Quervergleiche, Termine) als PDF, HTML und Markdown"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["PyYAML>=6", "reportlab>=4"]
+
+[project.optional-dependencies]
+markt = ["yfinance>=0.2"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+aktienreport = "aktienreport.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

@@ -1,0 +1,12 @@
+ticker: MKL
+name: Markel
+date: '2026-10-29'
+score: 6.0
+ampel: gelb
+sektor: Versicherung / Holding
+sektor_gruppe: Finanzen / Versicherung / Holding
+kurz: Bereinigtes Ergebnis +14 %
+anfaenger: sparplan
+termine:
+- datum: '2027-01-28'
+  text: Zahlen (Ende Jan./Feb. 2027)

@@ -1,0 +1,17 @@
+ticker: ASML
+name: ASML
+date: '2026-10-28'
+score: 6.5
+ampel: gelb
+sektor: Halbleitermaschinen
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: Rekord, aber KGV ~32 nach +60 %
+kurs:
+  wert: 1470
+  waehrung: EUR
+  datum: '2026-10-27'
+bewertung: KGV ~32
+kommentar: Monopol, teuer
+anfaenger: sparplan
+tags:
+- halbleiter

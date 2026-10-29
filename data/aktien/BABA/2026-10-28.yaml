@@ -1,0 +1,16 @@
+ticker: BABA
+name: Alibaba
+date: '2026-10-28'
+score: 6.0
+ampel: gelb
+sektor: China Cloud / E-Commerce
+sektor_gruppe: China (Tech/EV/Batterie)
+kurz: Cloud +45 %, KGV ~13
+kommentar: Cloud +45 %, Gewinn –75 %
+anfaenger: ungeeignet
+risiko: China-Risiko
+tags:
+- china
+termine:
+- datum: '2026-11-20'
+  text: Q3 (Mitte/Ende Nov.)

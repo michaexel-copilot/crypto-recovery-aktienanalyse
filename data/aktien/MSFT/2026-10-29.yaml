@@ -1,0 +1,22 @@
+ticker: MSFT
+name: Microsoft
+date: '2026-10-29'
+score: 7.5
+ampel: gelb
+tendenz: gruen
+sektor: Software/Cloud
+sektor_gruppe: Big Tech / Software / Cloud / Security
+kurz: Azure +48 %, Prognose 49–50 %
+kurs:
+  wert: 531
+  waehrung: USD
+  datum: '2026-10-28'
+quartal: Azure +48 %
+kommentar: OpenAI-Abhängigkeit, FCF −27 %
+aenderungsgrund: 'neuer Spitzenreiter: Azure +48 %'
+anfaenger: sparplan
+tags:
+- mag7
+termine:
+- datum: '2027-01-28'
+  text: Zahlen (Ende Jan./Feb. 2027)

@@ -1,0 +1,22 @@
+ticker: TSLA
+name: Tesla
+date: '2026-10-29'
+score: 3.0
+ampel: rot
+sektor: EV / Robotik
+sektor_gruppe: Auto / EV / Reifen
+kurz: Operatives Ergebnis −56 %, KGV ~210
+kurs:
+  wert: 404
+  waehrung: USD
+  datum: '2026-10-28'
+bewertung: KGV ~210
+quartal: op. Ergebnis −56 %
+kommentar: KGV ~210
+anfaenger: ungeeignet
+risiko: Turnaround offen
+tags:
+- mag7
+termine:
+- datum: '2027-01-28'
+  text: Zahlen (Ende Jan./Feb. 2027)

@@ -1,0 +1,16 @@
+ticker: NVO
+name: Novo Nordisk
+date: '2026-10-29'
+score: 5.5
+ampel: gelb
+sektor: Pharma / GLP-1
+sektor_gruppe: Pharma / Biotech
+land: DK
+kurz: KGV ~10–12; Q3 am 04.11.
+kommentar: Umsatz schrumpft, KGV ~10–12
+anfaenger: sparplan
+tags:
+- pharma
+termine:
+- datum: '2026-11-04'
+  text: Q3 (voraussichtlich)

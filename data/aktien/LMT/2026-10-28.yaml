@@ -1,0 +1,19 @@
+ticker: LMT
+name: Lockheed Martin
+date: '2026-10-28'
+score: 6.5
+ampel: gelb
+sektor: Rüstung (US)
+sektor_gruppe: Rüstung
+land: USA
+kurz: Rekord-Backlog 292 Mrd., Prognose ↑
+kurs:
+  wert: 604
+  waehrung: USD
+  datum: '2026-10-23'
+  hinweis: ca.
+bewertung: KGV ~20
+kommentar: Backlog 292 Mrd. USD
+anfaenger: geeignet
+tags:
+- ruestung

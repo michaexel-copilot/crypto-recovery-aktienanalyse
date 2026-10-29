@@ -1,0 +1,22 @@
+ticker: AAPL
+name: Apple
+date: '2026-10-29'
+score: 5.0
+ampel: gelb
+tendenz: rot
+sektor: Consumer Tech
+sektor_gruppe: Big Tech / Software / Cloud / Security
+kurz: KGV ~40; Q4 am 02.11.
+kurs:
+  wert: 346
+  waehrung: USD
+  datum: '2026-10-28'
+bewertung: KGV ~40
+kommentar: KGV ~40
+anfaenger: ungeeignet
+risiko: Hoch bewertet
+tags:
+- mag7
+termine:
+- datum: '2026-11-02'
+  text: Quartalszahlen

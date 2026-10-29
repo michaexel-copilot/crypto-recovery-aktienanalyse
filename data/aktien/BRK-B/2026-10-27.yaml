@@ -1,0 +1,12 @@
+ticker: BRK-B
+name: Berkshire Hathaway
+date: '2026-10-27'
+score: 6.0
+ampel: gelb
+sektor: Holding
+sektor_gruppe: Finanzen / Versicherung / Holding
+kurz: Rücksetzer/Sparplan
+anfaenger: geeignet
+termine:
+- datum: '2026-11-02'
+  text: Zahlen (02. oder 06.11.)

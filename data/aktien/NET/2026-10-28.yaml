@@ -1,0 +1,15 @@
+ticker: NET
+name: Cloudflare
+date: '2026-10-28'
+score: 4.5
+ampel: gelb
+tendenz: rot
+sektor: Cloud / Security
+sektor_gruppe: Big Tech / Software / Cloud / Security
+kurz: KUV ~41
+bewertung: KUV ~41
+anfaenger: ungeeignet
+risiko: Hoch bewertet
+termine:
+- datum: '2026-11-04'
+  text: Quartalszahlen

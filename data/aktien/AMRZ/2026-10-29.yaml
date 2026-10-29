@@ -1,0 +1,17 @@
+ticker: AMRZ
+name: Amrize
+date: '2026-10-29'
+score: 5.0
+ampel: gelb
+sektor: Baustoffe (Nordamerika)
+sektor_gruppe: Industrie / Baustoffe
+kurz: 2. Prognosesenkung, EV/EBITDA ~8
+aufgenommen: '2026-10-29'
+bewertung: EV/EBITDA ~8
+anfaenger: ungeeignet
+risiko: Zyklus / Rohstoff
+tags:
+- baustoffe
+termine:
+- datum: '2027-01-28'
+  text: Zahlen (Ende Jan./Feb. 2027)

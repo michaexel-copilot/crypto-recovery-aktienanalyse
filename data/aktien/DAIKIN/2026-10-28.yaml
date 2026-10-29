@@ -1,0 +1,12 @@
+ticker: DAIKIN
+name: Daikin Industries
+date: '2026-10-28'
+score: 7.0
+ampel: gelb
+sektor: Klimatechnik (JP)
+sektor_gruppe: Industrie / Baustoffe
+kurz: KGV ~23, Gewinn 2026 kaum +1 %
+anfaenger: sparplan
+termine:
+- datum: '2026-11-10'
+  text: Quartalszahlen

@@ -1,0 +1,23 @@
+ticker: XPEV
+name: XPeng
+date: '2026-10-29'
+score: 5.0
+ampel: gelb
+sektor: EV (CN)
+sektor_gruppe: China (Tech/EV/Batterie)
+kurz: 9,29 USD, KUV ~0,7
+kurs:
+  wert: 9.29
+  waehrung: USD
+bewertung: KUV ~0,7
+kommentar: KUV ~0,7, Verluste
+anfaenger: ungeeignet
+risiko: China-Risiko
+tags:
+- china-auto
+- china
+termine:
+- datum: '2026-11-01'
+  text: Oktober-Auslieferungen
+- datum: '2026-11-20'
+  text: Q3 (Mitte/Ende Nov.)

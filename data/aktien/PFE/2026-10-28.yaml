@@ -1,0 +1,16 @@
+ticker: PFE
+name: Pfizer
+date: '2026-10-28'
+score: 5.0
+ampel: gelb
+tendenz: rot
+sektor: Pharma (US)
+sektor_gruppe: Pharma / Biotech
+land: USA
+kurz: 5,8 % Div., Patent-Cliff
+kommentar: 5,8 % Div., Patent-Cliff
+tags:
+- pharma
+termine:
+- datum: '2026-11-03'
+  text: Quartalszahlen

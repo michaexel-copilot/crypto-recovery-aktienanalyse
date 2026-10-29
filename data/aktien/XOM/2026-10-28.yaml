@@ -1,0 +1,15 @@
+ticker: XOM
+name: ExxonMobil
+date: '2026-10-28'
+score: 5.0
+ampel: gelb
+sektor: Öl & Gas
+sektor_gruppe: Energie / Rohstoffe
+kurz: Ölpreis-Hoch; Q3 am 30.10.
+anfaenger: ungeeignet
+risiko: Zyklus / Rohstoff
+tags:
+- oel
+termine:
+- datum: '2026-10-30'
+  text: Quartalszahlen

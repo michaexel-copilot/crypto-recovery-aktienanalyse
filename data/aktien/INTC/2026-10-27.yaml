@@ -1,0 +1,18 @@
+ticker: INTC
+name: Intel
+date: '2026-10-27'
+score: 4.0
+ampel: gelb
+sektor: Halbleiter
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: −24 % in 1 Monat; Q3 am 29.10. abends
+kurs:
+  wert: 93.74
+  waehrung: USD
+  datum: '2026-10-27'
+bewertung: KGV ~58
+kommentar: Q3 am 29.10. abends
+anfaenger: ungeeignet
+risiko: Spekulativ / Verluste
+tags:
+- halbleiter

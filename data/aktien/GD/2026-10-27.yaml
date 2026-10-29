@@ -1,0 +1,21 @@
+ticker: GD
+name: General Dynamics
+date: '2026-10-27'
+score: 7.0
+ampel: gelb-gruen
+sektor: Rüstung (US)
+sektor_gruppe: Rüstung
+land: USA
+kurz: U-Boote + Gulfstream; Q3 am 30.10.
+kurs:
+  wert: 345
+  waehrung: USD
+  hinweis: Spanne 335–355, nicht verifiziert
+bewertung: KGV ~20
+kommentar: Q3 am 30.10.
+anfaenger: geeignet
+tags:
+- ruestung
+termine:
+- datum: '2026-10-30'
+  text: Quartalszahlen

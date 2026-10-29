@@ -1,0 +1,13 @@
+ticker: SPCX
+name: SpaceX
+date: '2026-10-29'
+score: 5.0
+ampel: gelb
+sektor: Raumfahrt
+sektor_gruppe: Raumfahrt
+kurz: Q3 +161 %, Capex Q4 35–40 Mrd.
+anfaenger: ungeeignet
+risiko: Hoch bewertet
+termine:
+- datum: '2027-01-28'
+  text: Zahlen (Ende Jan./Feb. 2027)

@@ -1,0 +1,14 @@
+ticker: ORCL
+name: Oracle
+date: '2026-10-28'
+score: 5.0
+ampel: gelb
+tendenz: rot
+sektor: Software / Cloud
+sektor_gruppe: Big Tech / Software / Cloud / Security
+kurz: Schulden > 160 Mrd., –30 %
+anfaenger: ungeeignet
+risiko: Bilanz- oder Rechtsrisiken
+termine:
+- datum: '2026-12-15'
+  text: Zahlen (Mitte Dez.)

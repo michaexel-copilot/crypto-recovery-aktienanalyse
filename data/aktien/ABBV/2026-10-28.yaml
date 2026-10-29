@@ -1,0 +1,16 @@
+ticker: ABBV
+name: AbbVie
+date: '2026-10-28'
+score: 6.0
+ampel: gelb
+sektor: Pharma (US)
+sektor_gruppe: Pharma / Biotech
+land: USA
+kurz: Skyrizi/Rinvoq +24 %, KGV ~20
+kommentar: Skyrizi/Rinvoq +24 %, KGV ~20
+anfaenger: sparplan
+tags:
+- pharma
+termine:
+- datum: '2026-10-30'
+  text: Quartalszahlen

@@ -1,0 +1,17 @@
+ticker: TSM
+name: TSMC
+date: '2026-10-28'
+score: 7.0
+ampel: gelb
+sektor: Halbleiter
+sektor_gruppe: Halbleiter / Speicher / Server
+kurz: Q4 +58 %, KGV ~22, Taiwan-Risiko
+kurs:
+  wert: 436.87
+  waehrung: USD
+  datum: '2026-10-27'
+bewertung: KGV ~22
+kommentar: Q4 +58 %, Taiwan-Risiko
+anfaenger: sparplan
+tags:
+- halbleiter

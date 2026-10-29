@@ -1,0 +1,13 @@
+ticker: ZURN
+name: Zurich Insurance
+date: '2026-10-28'
+score: 7.0
+ampel: gelb
+tendenz: gruen
+sektor: Versicherung (CH)
+sektor_gruppe: Finanzen / Versicherung / Holding
+kurz: ~4,9 % Dividende
+anfaenger: geeignet
+termine:
+- datum: '2026-11-12'
+  text: Quartalszahlen

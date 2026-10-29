@@ -1,0 +1,20 @@
+ticker: PBR
+name: Petrobras
+date: '2026-10-29'
+score: 4.5
+ampel: gelb
+tendenz: rot
+sektor: Öl (BR)
+sektor_gruppe: Energie / Rohstoffe
+kurz: Lula-Sieg, Aktie −15 %
+bewertung: KGV ~4
+aenderungsgrund: Lula-Sieg, Aktie −15 %
+anfaenger: ungeeignet
+risiko: Zyklus / Rohstoff
+tags:
+- oel
+termine:
+- datum: '2026-11-10'
+  text: Finanzzahlen
+- datum: '2026-11-25'
+  text: Business Plan

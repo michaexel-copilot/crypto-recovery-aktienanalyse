@@ -1,0 +1,17 @@
+ticker: BAYN
+name: Bayer
+date: '2026-10-27'
+score: 5.5
+ampel: gelb
+sektor: Pharma + Agrar
+sektor_gruppe: Pharma / Biotech
+land: DE
+kurz: Glyphosat-Vergleich offen
+kommentar: Glyphosat
+anfaenger: ungeeignet
+risiko: Bilanz- oder Rechtsrisiken
+tags:
+- pharma
+termine:
+- datum: '2026-11-03'
+  text: Quartalszahlen

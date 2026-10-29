@@ -1,0 +1,15 @@
+ticker: UEC
+name: Uranium Energy
+date: '2026-10-28'
+score: 4.5
+ampel: gelb
+tendenz: rot
+sektor: Uran
+sektor_gruppe: Energie / Rohstoffe
+kurz: KUV ~105
+bewertung: KUV ~105
+anfaenger: ungeeignet
+risiko: Zyklus / Rohstoff
+termine:
+- datum: '2026-12-03'
+  text: Zahlen (Anfang Dez.)
